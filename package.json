@@ -1,0 +1,20 @@
+{
+  "name": "mailBus",
+  "version": "1.0.0",
+  "description": "A fast mailing platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaScriptKampala/mailBus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaScriptKampala/mailBus/issues"
+  },
+  "homepage": "https://github.com/javaScriptKampala/mailBus#readme"
+}
